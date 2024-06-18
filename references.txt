@@ -1,0 +1,5 @@
+https://en.wikipedia.org/wiki/Multi-armed_bandit
+https://www.geeksforgeeks.org/matplotlib-pyplot-legend-in-python/
+https://www.cse.iitb.ac.in/~shivaram/teaching/cs747-a2023/index.html
+https://blog.devgenius.io/how-to-solve-the-multi-armed-bandit-problem-epsilon-greedy-approach-ebe286390578
+https://medium.com/analytics-vidhya/a-brief-overview-of-the-multi-armed-bandit-in-reinforcement-learning-d086853dc90a
